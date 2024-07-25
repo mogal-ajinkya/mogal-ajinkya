@@ -82,7 +82,6 @@
 ###
 
 <br clear="both">
-
 <img src="https://raw.githubusercontent.com/mogal-ajinkya/mogal-ajinkya/output/snake.svg" alt="Snake animation" />
 
 ###
