@@ -80,14 +80,3 @@
 </div>
 
 ###
-
-<br clear="both">
-<img src="https://raw.githubusercontent.com/mogal-ajinkya/mogal-ajinkya/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/mogal-ajinkya/count.svg?"  />
-</div>
-
-###
